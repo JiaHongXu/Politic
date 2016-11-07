@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="login_bg">
+        <item>@color/colorBackground_activity_login</item>
+        <item>@color/colorBackground_activity_signUp</item>
+    </array>
+</resources>

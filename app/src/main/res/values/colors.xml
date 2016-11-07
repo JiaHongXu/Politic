@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 登录页面 -->
+    <color name="colorPrimary_activity_login">#1abc9c</color>
+    <color name="colorPrimaryDark_activity_login">#303F9F</color>
+    <color name="colorAccent_activity_login">#f1c40f</color>
+    <color name="colorBackground_activity_login">#1abc9c</color>
+
+    <!-- 注册页面 -->
+    <color name="colorPrimary_activity_signUp">#3498db</color>
+    <color name="colorPrimaryDark_activity_signUp">#303F9F</color>
+    <color name="colorAccent_activity_signUp">#f1c40f</color>
+    <color name="colorBackground_activity_signUp">#3498db</color>
+</resources>
